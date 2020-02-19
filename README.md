@@ -15,3 +15,6 @@ deemed unnecessary or placed into `CONTRIBUTING.md`).
    ```
 
    This is important to prevent license mis-detection by GitHub, etc.
+
+3. The `LEGAL` file can be added if additional copyright and/or licensing
+   notes or details are needed (see `template-multi-author` for details).
